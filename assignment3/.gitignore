@@ -1,0 +1,35 @@
+# IPython Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
+
+# Python virtual environment
+venv/
+env/
+*.venv/
+*.env/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Other generated files
+*.pyproj
+*.pydevproject
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+cs231n/datasets/
